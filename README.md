@@ -21,7 +21,7 @@ The application fetches user data from an API and displays their details along w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/VaclavKey/React_UserList.git
 2. Navigate to the project directory:
    ```bash
    cd userlist
