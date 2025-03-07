@@ -24,7 +24,7 @@ The application fetches user data from an API and displays their details along w
    git clone https://github.com/VaclavKey/React_UserList.git
 2. Navigate to the project directory:
    ```bash
-   cd userlist
+   cd React_UserList
 3. Install dependencies:
    ```bash
    npm install
